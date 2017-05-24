@@ -11,20 +11,9 @@ Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
-Either run
-
 ```
-php composer.phar require --prefer-dist kriss/yii2-link-pager-with-submit "*"
+php composer.phar require --prefer-dist kriss/yii2-link-pager-with-submit "*" -vvv
 ```
-
-or add
-
-```
-"kriss/yii2-link-pager-with-submit": "*"
-```
-
-to the require section of your `composer.json` file.
-
 
 Usage
 -----
